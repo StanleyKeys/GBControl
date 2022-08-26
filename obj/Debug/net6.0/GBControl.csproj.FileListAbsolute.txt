@@ -1,0 +1,15 @@
+D:\GeekBrains\Znakomstvo\GBControl\bin\Debug\net6.0\GBControl.exe
+D:\GeekBrains\Znakomstvo\GBControl\bin\Debug\net6.0\GBControl.deps.json
+D:\GeekBrains\Znakomstvo\GBControl\bin\Debug\net6.0\GBControl.runtimeconfig.json
+D:\GeekBrains\Znakomstvo\GBControl\bin\Debug\net6.0\GBControl.dll
+D:\GeekBrains\Znakomstvo\GBControl\bin\Debug\net6.0\GBControl.pdb
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.csproj.AssemblyReference.cache
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.AssemblyInfoInputs.cache
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.AssemblyInfo.cs
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.dll
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\refint\GBControl.dll
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.pdb
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\GBControl.genruntimeconfig.cache
+D:\GeekBrains\Znakomstvo\GBControl\obj\Debug\net6.0\ref\GBControl.dll
